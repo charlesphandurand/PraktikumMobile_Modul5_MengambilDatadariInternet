@@ -1,2 +1,4 @@
 # PraktikumMobile_Modul5_MengambilDatadariInternet
-Modul 5
+Nama: Charles Phandurand | NIM: 2010817110006
+Tema: Anime
+Link API: https://ghibliapi.herokuapp.com
